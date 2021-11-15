@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @winter4ngel
+- 👋 Hi, I’m a peron
 - I like coding, netflix, reading, and playing video games
 - 🌱 I’m currently learning C++
 - I know Karel Javascript, CSS, and HTML
