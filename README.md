@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @winter4ngel
 - I like coding, netflix, reading, and playing video games
 - 🌱 I’m currently learning C++
-- I know Javascript, CSS, and HTML
-- I like playing the Fomula 1 video game but I know nothing about Formula 1 (LOL)
+- I know Karel Javascript, CSS, and HTML
+- I like playing the Fomula 1 video game but I know nothing about Formula 1 
 - And IDK what else to write...
